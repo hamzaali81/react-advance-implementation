@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.app:hover{
+  box-shadow: 1px 1px 1px 1px gray;
+  width: 300px;
+}
